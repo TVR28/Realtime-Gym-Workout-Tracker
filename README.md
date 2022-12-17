@@ -1,2 +1,2 @@
 # Realtime-Gym-Workout-Tracker
-## Realtime workout tracker using _OpenCv_ and _MediaPipe_
+## Realtime workout tracker using **OpenCv** and **MediaPipe**
