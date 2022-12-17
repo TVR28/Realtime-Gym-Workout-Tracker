@@ -1,4 +1,4 @@
-# Realtime-Gym-Workout-Tracker
+# Realtime Gym Workout Tracker
 ## Realtime workout tracker using **OpenCv** and **MediaPipe**
 
 - A Bicep curl counter is built using `OpenCv` and `MediaPipe` in python
